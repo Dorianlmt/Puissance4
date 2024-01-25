@@ -1,0 +1,16 @@
+Le Puissance 4 est un projet Ynov en Java.
+_____________________________________________________________
+
+Afin de jouer au puissance 4 :
+
+Il suffit d'executer la commande suivante dans votre terminal:
+
+make run (ou simplement make)
+______________________________________________________________
+
+Le make run va créer les fichiers .class et les executer directement.
+______________________________________________________________
+
+Ensuite afin de nettoyer le tout et de supprimer les .class il suffit de faire la commande suivante :
+
+make clean.
