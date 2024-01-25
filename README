@@ -14,3 +14,15 @@ ______________________________________________________________
 Ensuite afin de nettoyer le tout et de supprimer les .class il suffit de faire la commande suivante :
 
 make clean.
+
+
+
+______________________________________________________________
+
+Si le make est impossible vous pouvez réaliser la création des class et le run manuellement:
+
+rendez vous dans le Puissance4\src\
+effectuez la commande suivante :
+javac Puissance4.java TerminalClear.java
+suivi de la commande : 
+java Puissance4 TerminalClear
